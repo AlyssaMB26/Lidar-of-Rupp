@@ -1,5 +1,6 @@
 ## Lidar view of Rupp Arena
-This Lidar view was created for Lab 5 Geo 409, the map features a Lidar view and animation of the famous Rupp Arena in Lexington, KY
+This Lidar view was created for Lab 5 Geo 409 by AMBA301, the map features a Lidar view and animation of the famous Rupp Arena in Lexington, KY
+
 ![Lidar of Rupp Arena ](Rupp.jpg)     
 *Lidar View of Rupp Arena*
 
